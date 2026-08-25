@@ -1,2 +1,2 @@
 # DOTD
-A game developed with Unreal Engine
+https://minaaris.itch.io/dotd 
